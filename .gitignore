@@ -1,0 +1,9 @@
+.env
+app.py
+main.py
+nnn.py
+test.py
+test1.py
+faiss_index/
+.venv/
+.streamlit/
